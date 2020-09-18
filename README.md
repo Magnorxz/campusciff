@@ -14,4 +14,6 @@ Hago add, commit y push a la carpeta de las capturas de pantalla.
 
 ![Screenshot](https://github.com/Magnorxz/campusciff/blob/master/Screenshots/sc2.png)
 
+
 Iré añadiendo capturas y subiendolas al repositorio pero no haré una captura de eso cada vez, no quiero crear un bucle infinito.
+
