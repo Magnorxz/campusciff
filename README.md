@@ -8,5 +8,5 @@ iré añadiendo las capturas para añadirlas al #README
 
 Hago add, commit y push a esta carpeta.
 
-![Screenshot](https://github.com/Magnorxz/campusciff/Screenshots/sc1)
+![Screenshot](https://github.com/Magnorxz/campusciff/blob/master/Screenshots/sc1.png)
 
