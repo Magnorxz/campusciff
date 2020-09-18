@@ -8,8 +8,6 @@ iré añadiendo las capturas para añadirlas al #README
 
 
 ![Screenshot](https://github.com/Magnorxz/campusciff/blob/master/Screenshots/sc1.png)
-<<<<<<< HEAD
-
 
 Hago add, commit y push a la carpeta de las capturas de pantalla.
 
@@ -17,9 +15,3 @@ Hago add, commit y push a la carpeta de las capturas de pantalla.
 ![Screenshot](https://github.com/Magnorxz/campusciff/blob/master/Screenshots/sc2.png)
 
 Iré añadiendo capturas y subiendolas al repositorio pero no haré una captura de eso cada vez, no quiero crear un bucle infinito.
-
-
-
-=======
->>>>>>> c706b2bc1ef815271ef834173bf43fb01c4c64a3
-
