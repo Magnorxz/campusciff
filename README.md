@@ -21,7 +21,11 @@ Iré añadiendo capturas y subiendolas al repositorio pero no haré una captura 
 
 Subida del tag v.01
 
-| Compañero de ejemplo   | github.com |
+| Compañero de ejemplo   | https://github.com |
 |------------------------|------------|
-| Compañero de ejemplo 2 | github.com |
-| Compañero de ejemplo 3 | github.com |
+| Compañero de ejemplo 2 | https://github.com |
+| Compañero de ejemplo 3 | https://github.com |
+
+Colaboradores: 
+
+- https://github.com/asanzdiego
