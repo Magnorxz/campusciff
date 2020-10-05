@@ -49,7 +49,17 @@ Merge con la rama
 
 ![Screenshot](https://github.com/Magnorxz/campusciff/blob/master/Screenshots/sc9.png)
 
-Origen de las ramas, el conflicto se ha arrreglado solo de manera recursiva?
+Origen de las ramas, ¿el conflicto se ha arrreglado solo de manera recursiva?
+
+![Screenshot](https://github.com/Magnorxz/campusciff/blob/master/Screenshots/sc10.png)
+
+Creación tag v.02 y elimino la rama v.02
+
+![Screenshot](https://github.com/Magnorxz/campusciff/blob/master/Screenshots/sc11.png)
+
+Lista de cambios y sus tags
+
+
 
 
 
