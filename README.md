@@ -47,4 +47,9 @@ Vuelta a la rama master
 
 Merge con la rama
 
+![Screenshot](https://github.com/Magnorxz/campusciff/blob/master/Screenshots/sc9.png)
+
+Origen de las ramas, el conflicto se ha arrreglado solo de manera recursiva?
+
+
 
