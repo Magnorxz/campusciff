@@ -29,3 +29,13 @@ Subida del tag v.01
 Colaboradores: 
 
 - https://github.com/asanzdiego
+
+![Screenshot](https://github.com/Magnorxz/campusciff/blob/master/Screenshots/sc4.png)
+
+Creación rama v.02 y clonación del repositorio.
+
+![Screenshot](https://github.com/Magnorxz/campusciff/blob/master/Screenshots/sc5.png)
+
+Vuelta a la rama master
+
+
