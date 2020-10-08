@@ -60,6 +60,10 @@ Creación tag v.02 y elimino la rama v.02
 Lista de cambios y sus tags
 
 
+![Screenshot](https://github.com/Magnorxz/campusciff/blob/master/Screenshots/sc12.png)
 
+![Screenshot](https://github.com/Magnorxz/campusciff/blob/master/Screenshots/sc13.png)
+
+Tags y Bugfixes
 
 
