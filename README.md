@@ -34,8 +34,6 @@ Colaboradores:
 
 ![Screenshot](https://github.com/Magnorxz/campusciff/blob/master/Screenshots/sc6.png)
 
-![Screenshot](https://github.com/Magnorxz/campusciff/blob/master/Screenshots/sc7.png)
-
 Creación rama v.02 y clonación del repositorio.
 
 ![Screenshot](https://github.com/Magnorxz/campusciff/blob/master/Screenshots/sc5.png)
